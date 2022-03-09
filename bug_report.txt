@@ -1,0 +1,10 @@
+ Bug report: 1,
+ Structure: Error message in login form is displayed in English,
+ Project: Login page,
+ Component: Registration form,
+ Bild version: 1.0.1,
+ Severity: Major,
+ Priority: Low,
+ Status: Open,
+ Author: Matrosov.A.,
+ Enviroment: MacOS 11.6.4
